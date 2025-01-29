@@ -1,4 +1,4 @@
-# ![Obtainium Icon](./assets/graphics/icon_small.png) Obtainium
+ # ![Obtainium Icon](./assets/graphics/icon_small.png) Obtainium
 
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
